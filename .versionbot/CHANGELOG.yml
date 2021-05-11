@@ -1,4 +1,14 @@
 - commits:
+    - subject: Switch `Boolean` to use `BOOLEAN` db type instead of `INTEGER`
+      hash: 8787cb40dcae907e087f7017c999321d396bcbda
+      body: ''
+      footer:
+        Change-type: major
+        change-type: major
+      author: Pagan Gazzard
+  version: 4.0.0
+  date: 2021-05-11T13:23:08.487Z
+- commits:
     - subject: Support boolean results from the db as well as integer
       hash: 337c9af41ca4b17e06e79e574b0c5849928a167b
       body: ''
